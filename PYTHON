@@ -1,0 +1,181 @@
+# print(12 == 12)
+
+# print(20 !=20.1)
+
+# print(12 <90)
+# print(80 > 40)
+
+# print(12 <= 12)
+
+
+# #logiocal operator
+
+# #(and ,or , not )
+# #all the oprations must be true if even one of the 
+# #opration is false I will give false result
+
+
+# #all the opera
+# print(12 == 12 and 40 > 30 and 40 != 67 and 40 == 40 and 23 > 20)
+
+# #or 
+# #if all are false I will provide false but if 
+# #even one oprations is true I will provide True 
+
+# print(12 != 12 or 34 < 20 or 12 ==12 )
+
+# #not
+# #i will convcert true to false and false to true
+
+# print(not 20 == 20)
+
+# print (12 == 12) and 30 != 45 or 23==23
+       
+# print (12 ==12 and 34 != 56) and ((not bool("hello") or 45 !=30))
+
+# a = 1
+
+# a *= 1
+# a *= 2
+# a *= 3
+# a *= 4
+# a *= 5 
+
+# print(a)
+
+
+
+# for i in range(1,11):
+#     if i == 3:
+#         break
+#     print(i *  10)
+
+
+# for i in range(1,11):
+#     if i == 3:
+#       break
+#     print(i * 10)
+
+
+# for i in range(1,11):
+#     if i == 8:
+#         break
+
+#     print(i * 10)
+
+# else:
+#     print("i will run ")
+
+
+# print = ("HELLO WORLD")
+
+# for i in range(1,11):
+# #     if i == 3:
+# #         break
+# #    
+
+# i = int(input("tell your number :- "))
+# for i in range(500,5001,500):
+#     print(i)
+
+# a = 100 
+# a = 200
+# a = 300 
+# a = ("5000 *= 1000")
+
+# print(a)
+
+# a = range(1,21,1)
+# for i in a:
+#     print(i)
+
+# age = int(input("enter your age"))
+# print(age)
+# print(type(age))
+
+# name = input("enter your name")
+# print(name)
+# marks = int(input("enter your marks"))
+# print(marks)
+# print(name,marks)
+
+# name = input("enter your name")
+# print(name)
+# marks = int(input("enter your marks"))
+# print(marks)
+# Disc = float(input("Enter your discount"))
+# print(Disc)
+
+# name = input("enter your name")
+# print(name)
+# age = int(input("enter your age"))
+# print(age)
+# hight = input("enter your hight")
+# print(hight)
+
+# name = input("enter your name")
+# print(name)
+# age = int(input("enter your age"))
+# print(age)
+# hight = input("enter your hight")
+# print(hight)
+# is_student =True
+# print(is_student)
+
+# name = "Raunak"
+# age = 18
+# height = 5.6
+# is_student = True
+
+# print(name)
+# print(age)
+# print(height)
+# print(is_student)
+
+# name = "NIKHIL"
+# print(name)
+# print(type(name))
+
+# name = input("Enter your name")
+# print(name)
+# print(type(name))
+ 
+# num = int(input("Enter your number"))
+# print(num)
+# print(type(num))
+
+
+# num = "50"
+# print(num)
+# print(float(type))
+
+
+# a = "user name"
+# print(a)
+
+
+# text = "Python Programming"               #
+
+# print(len(text))                        #
+
+
+
+# print("First character:", text[0])
+# print("Fourth character:", text[3])
+# print("Last character:", text[-1])
+
+# INPUT - Python
+     
+#      OUTPUT - nohtyP
+
+
+# text = "python"
+# print(text[::-1])
+
+# text = "Python Programming"               
+
+# print(len(text))    
+
+# 1. Count even and Odd Numbers within a range.
+
+    
